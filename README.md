@@ -1,28 +1,22 @@
 ## Hi, I'm Clovis Junior, Full Stack Developer
 
-<div align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</div>
+![Estatísticas do GitHub](https://vercel.app)
+![Linguagens mais usadas](https://vercel.app)
 
 <br>
 
-<div align="center">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</div>
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+![PHP](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 <br>
 
-<div align="center">
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</div>
+### 📫 Como me encontrar
+
+[![Gmail](https://shields.io)](mailto:csv.junior@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/clovis-jr/)
