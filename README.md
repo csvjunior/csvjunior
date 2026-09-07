@@ -1,30 +1,13 @@
 ## Hi, I'm Clovis Junior, Full Stack Developer
-
 <div align="center">
-  <a href="https://github.com">
-    <img height="180em" src="https://vercel.app"/>
-    <img height="180em" src="https://vercel.app"/>
-  </a>
+  <a href="https://github.com/csvjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csvjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csvjunior&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<br>
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="csvjunior-Js" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="csvjunior-React" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="csvjunior-Node" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="csvjunior-PHP" height="30" width="40" src="https://jsdelivr.net">
-  <img align="center" alt="csvjunior-HTML" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="csvjunior-CSS" height="30" width="40" src="https://githubusercontent.com">
-</div>
-
-<br>
-
-<div style="display: inline_block">
-  <a href="mailto:seu-email@gmail.com">
-    <img align="center" alt="Gmail" height="30" src="https://shields.io">
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" src="https://shields.io">
-  </a>
+  <img align="center" alt="csvjunior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="csvjunior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="csvjunior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="csvjunior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="csvjunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
